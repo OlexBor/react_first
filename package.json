@@ -1,0 +1,11 @@
+{
+  "name": "react_first",
+  "version": "1.0.0",
+  "description": "The simple React.js package...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OlexBor",
+  "license": "ISC"
+}
